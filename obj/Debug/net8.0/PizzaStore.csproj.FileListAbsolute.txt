@@ -30,3 +30,4 @@ C:\Users\ATTAIN\source\repos\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.
 C:\Users\ATTAIN\source\repos\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
 C:\Users\ATTAIN\source\repos\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ATTAIN\source\repos\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CopyComplete
+C:\Users\ATTAIN\source\repos\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
